@@ -1,2 +1,14 @@
 # wwwweb-worldcup-hub
-HTML page archive and documentation
+
+静态文件发布目录
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
